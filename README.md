@@ -36,5 +36,7 @@ E em remove_user adicionando uma verificação condicional para verificar se o u
 A correção dos bugs e a implementação de testes unitários foram fundamentais para garantir que as classes funcionem conforme o esperado em diversos cenários. A utilização da biblioteca pytest permitiu criar uma base confiável para futuras atualizações no código, minimizando a probabilidade de erros e regressões. 
 
 <b>Conclusão: </b>
-
+pip install pytest para usar a biblioteca
 A aplicação de testes automatizados utilizando a biblioteca pytest foi essencial para garantir que as correções realizadas nas classes FibonacciGenerator, StringUtils e UserManager resolveram os problemas identificados, e que os métodos funcionam corretamente em todos os cenários testados. A experiência demonstrou a importância de integrar testes desde o início do ciclo de desenvolvimento. Isso não apenas melhora a qualidade do código, mas também reduz significativamente o tempo necessário para identificar e corrigir problemas. 
+
+google colab: https://colab.research.google.com/drive/1nNF9Ywl8k97hohXGQkvnj1TEkAdpOJhD?usp=sharing
